@@ -1,0 +1,16 @@
+zone_id,zone_name,capacity,current_occupancy,entry_rate,exit_rate,alert_level
+Z01,North Stand,5000,3200,45,30,medium
+Z02,South Stand,5000,4100,60,20,high
+Z03,East Stand,3500,1200,20,25,low
+Z04,West Stand,3500,2800,35,28,medium
+Z05,Food Court A,800,650,80,75,high
+Z06,Food Court B,800,320,30,35,low
+Z07,Food Court C,600,410,40,38,medium
+Z08,Gate North,200,120,55,50,medium
+Z09,Gate South,200,180,90,85,high
+Z10,Gate East,200,60,25,28,low
+Z11,Gate West,200,140,65,60,medium
+Z12,Medical Bay,50,8,5,4,low
+Z13,VIP Lounge,300,210,15,12,medium
+Z14,Washroom Block A,100,75,70,68,high
+Z15,Washroom Block B,100,30,20,22,low

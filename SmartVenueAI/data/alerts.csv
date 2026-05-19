@@ -1,0 +1,9 @@
+alert_id,timestamp,severity,zone,message,type,active
+A001,2024-01-15 14:25:00,critical,South Stand,Crowd density exceeding safe limits,congestion,true
+A002,2024-01-15 14:27:00,high,Gate South,Queue backing up — consider opening Gate East,queue,true
+A003,2024-01-15 14:28:00,high,Food Court A,High congestion detected in Food Court A,congestion,true
+A004,2024-01-15 14:29:00,medium,Washroom A-F,Long wait time predicted: 15 min,queue,true
+A005,2024-01-15 14:20:00,low,Gate West,Minor delay at entry scanners,operational,true
+A006,2024-01-15 14:15:00,critical,Medical Bay,Emergency personnel dispatched to Section C7,emergency,true
+A007,2024-01-15 14:10:00,medium,Food Court B,Staff requested at Food Court B,operational,false
+A008,2024-01-15 14:05:00,low,Gate North,Gate North scanner offline — resolved,operational,false
